@@ -1,0 +1,34 @@
+[
+  {
+    "numero_inventario": "1100-25-A",
+    "nombre": "Aire Acondicionado Split",
+    "marca": "Samsung",
+    "modelo": "AR12TVFCAWK/CB",
+    "serie": "SN-AABB1122",
+    "ubicacion": "Piso 2, Oficina de Gerencia"
+  },
+  {
+    "numero_inventario": "2350-11-B",
+    "nombre": "Proyector Multimedia",
+    "marca": "Epson",
+    "modelo": "PowerLite E20",
+    "serie": "SN-CCDD3344",
+    "ubicacion": "Piso 3, Sala de Conferencias"
+  },
+  {
+    "numero_inventario": "4500-01-C",
+    "nombre": "Servidor Principal",
+    "marca": "Dell",
+    "modelo": "PowerEdge R740",
+    "serie": "SN-EEFF5566",
+    "ubicacion": "Cuarto de Datos"
+  },
+  {
+    "numero_inventario": "3100-15-D",
+    "nombre": "Impresora Multifuncional",
+    "marca": "HP",
+    "modelo": "LaserJet Pro M428fdw",
+    "serie": "SN-GGHH7788",
+    "ubicacion": "Recepción, Piso 1"
+  }
+]
