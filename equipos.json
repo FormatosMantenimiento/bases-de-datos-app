@@ -5,7 +5,8 @@
     "marca": "Samsung",
     "modelo": "AR12TVFCAWK/CB",
     "serie": "SN-AABB1122",
-    "ubicacion": "Piso 2, Oficina de Gerencia"
+    "ubicacion": "Piso 2, Oficina de Gerencia",
+    "formato_id": 1
   },
   {
     "numero_inventario": "2350-11-B",
@@ -13,7 +14,8 @@
     "marca": "Epson",
     "modelo": "PowerLite E20",
     "serie": "SN-CCDD3344",
-    "ubicacion": "Piso 3, Sala de Conferencias"
+    "ubicacion": "Piso 3, Sala de Conferencias",
+    "formato_id": 2
   },
   {
     "numero_inventario": "4500-01-C",
@@ -21,7 +23,8 @@
     "marca": "Dell",
     "modelo": "PowerEdge R740",
     "serie": "SN-EEFF5566",
-    "ubicacion": "Cuarto de Datos"
+    "ubicacion": "Cuarto de Datos",
+    "formato_id": 3
   },
   {
     "numero_inventario": "3100-15-D",
@@ -29,6 +32,7 @@
     "marca": "HP",
     "modelo": "LaserJet Pro M428fdw",
     "serie": "SN-GGHH7788",
-    "ubicacion": "Recepción, Piso 1"
+    "ubicacion": "Recepción, Piso 1",
+    "formato_id": 4
   }
 ]
