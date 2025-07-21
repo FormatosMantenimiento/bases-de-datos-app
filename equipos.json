@@ -1,0 +1,4259 @@
+[
+  {
+    "numero_inventario": "3467",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K",
+    "serie": "ADU-131",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [67, 68]
+  },
+  {
+    "numero_inventario": "619",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-059",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6970",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6154",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6178",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "7013",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "7012",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5251",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "HR 900",
+    "serie": "HRP002575109",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "618",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-089",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3489",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-113",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3486",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-105",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5256",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "HR 900",
+    "serie": "HRP002575058",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6079",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5334",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6082",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5281",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7767",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5286",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7748",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5330",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "7367",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "NR 07367",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6097",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6156",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6181",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6187",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "7001",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "17407",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "17407",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3485",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-160",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5278",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7774",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "17415",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "17415",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5307",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7754",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5322",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7784",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "7011",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6995",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6693",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6989",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "7006",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6975",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6992",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "7009",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "899",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-013",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6979",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "7007",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6977",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "7008",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6980",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6988",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "7010",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6991",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6976",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "7005",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6990",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6994",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6996",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6978",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6963",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6728",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6732",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6727",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6739",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6733",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6724",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6721",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6722",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6723",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6737",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6954",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6953",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6951",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6955",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6959",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6958",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6956",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6960",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6971",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6969",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6972",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6973",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6957",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6962",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6961",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6964",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6965",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6966",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6968",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6952",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6731",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6729",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6741",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6734",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6740",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6730",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6725",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6726",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6735",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6736",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6738",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6066",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6067",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6068",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6069",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6070",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6071",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6072",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6073",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6074",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6075",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6076",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6077",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6078",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6080",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6081",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6083",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6084",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6085",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6086",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6087",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6088",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6089",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6090",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6091",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2636",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-045",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6092",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6093",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6094",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6095",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6096",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6098",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6099",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6100",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6101",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6102",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6103",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6104",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6105",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6159",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6163",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6194",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6195",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6197",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6153",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6155",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "918",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-026",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6157",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6158",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6160",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6161",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6162",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6164",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6165",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "839",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-002",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6166",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6167",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6168",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6169",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6170",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6171",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6172",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6173",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6174",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6175",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6176",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6177",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6179",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6180",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6182",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6183",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6184",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6185",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6186",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6188",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6189",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6190",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6191",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6192",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6196",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "7004",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "7002",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6981",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6982",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6983",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6984",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6974",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6986",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "922",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-005",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6985",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6993",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "7000",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6997",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6999",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3696",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-150",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "C-2635",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "17406",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "C-2639 / 17398",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "17398",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "17399",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "17399",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6654",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5329",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5276",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7750",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5308",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7785",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5252",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "HR 900",
+    "serie": "HRP002575053",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3457",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-122",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3458",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-127",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "04156 / C-2292",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "L&K",
+    "modelo": "ADULTO",
+    "serie": "ICSM-02958",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "821",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-014",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3519",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-162",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "C-2623",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "17416",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "17417",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "17417",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "17410",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "17410",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "17411",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "17411",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "17403",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "17403",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "17408",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "17408",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "17008",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "17008",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3483",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-161",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5306",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q230CC4611",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5320",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q232CC4641",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2745",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-074",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5270",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7771",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "NR ICSM-02950",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "L&K",
+    "modelo": "ADULTO",
+    "serie": "ICSM-02950",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2759",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-071",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "622",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-092",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "889",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-055",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "897",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-016",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3493",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-114",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "887",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-039",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3499",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-117",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3504",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-112",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3697",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "913",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-020",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3466",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-132",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2737",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-082",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3503",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-115",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "4418",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3498",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-108",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2686",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-057",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "891",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-056",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "894",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-097",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5272",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7782",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3494",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-101",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3491",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-102",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "620",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-061",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "627",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-065",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "892",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-096",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3492",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-103",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "843",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-036",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "907",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-006",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3461",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-124",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "831",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-022",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "885",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-088",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "911",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-023",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "17005",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "17005",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "17006",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "17006",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "17007",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "17007",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3488",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-110",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2634",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-091",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5321",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7756",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2734",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-062",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3518",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3521",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "623",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-042",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3699",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "893",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-098",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "626",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-060",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "845",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-034",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3487",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-104",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3490",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-119",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "910",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-021",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3506",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K",
+    "serie": "ADU-106",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3467",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K",
+    "serie": "ADU-131",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3463",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-130",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3698",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "C-2630",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "17413",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "832",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "834",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-004",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "837",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-008",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3505",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-107",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "854",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-027",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "898",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-015",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "17001",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "17001",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "17002",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "17002",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "17004",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "17004",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "17009",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "17009",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2710",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-100",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2741",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-046",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3474",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-138",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2749",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-068",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3496",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-120",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3500",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-118",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3501",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-116",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3497",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-109",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3481",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-155",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3480",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-156",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3482",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-158",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "17412",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "17412",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3875",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "4",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3876",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "2",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3872",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "1",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "4417",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "4411",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "17396",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "17396",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "4413",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "888",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-049",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "842",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-035",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "902",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-009",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "926",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-012",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "04158 / C-2295",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "L&K",
+    "modelo": "ADULTO",
+    "serie": "ICSM-02961",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "C-2296",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "L&K",
+    "modelo": "ADULTO",
+    "serie": "ICSM-02956",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "04157 / C-2293",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "L&K",
+    "modelo": "ADULTO",
+    "serie": "ICSM-02960",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3656",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K",
+    "serie": "ADU-152",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3657",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K",
+    "serie": "ADU-151",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3470",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-136",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3473",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-141",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3475",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-135",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "625",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-040",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3479",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-154",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2771",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-075",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2702",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-052",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2714",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-081",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2723",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-076",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2755",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-094",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2767",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-086",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2698",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-050",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3517",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2682",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-099",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "833",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-024",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3484",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-159",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3874",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "5",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "4419",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "4414",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "4415",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "630",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "835",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-007",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "851",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-031",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "853",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-030",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "886",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-043",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "890",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-044",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "906",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-018",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "914",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-019",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2635",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-051",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "04159/ C-2294",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "L&K",
+    "modelo": "ADULTO",
+    "serie": "ICSM-02962",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "04064 / C-2272",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "L&K",
+    "modelo": "ADULTO",
+    "serie": "ICSM-02965",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3469",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K",
+    "serie": "ADU-143",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3655",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K",
+    "serie": "ADU-149",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3462",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-137",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3465",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-129",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3478",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-093",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3495",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-121",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2740",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-084",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5279",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7772",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2704",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-087",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2724",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-063",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2746",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-079",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2753",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-095",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2760",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-085",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2763",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-080",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2770",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-003",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "927",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-011",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3686",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2756",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-054",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "4412",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "852",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-029",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2761",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-066",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3835",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3459",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-125",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "849",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-032",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "855",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-028",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "17003",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "17003",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "7003",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "17010",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "17010",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "921",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-017",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5280",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q232CC4630",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5284",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q232CC4627",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5285",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q232CC4614",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5288",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q232CC4642",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5289",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q232CC4625",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5290",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q232CC4638",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5291",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7752",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5292",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q232CC4622",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5293",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7769",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5294",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7770",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5295",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q232CC4624",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5296",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7779",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5297",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q232CC4619",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5298",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7778",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5299",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q232CC4626",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5300",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q232CC4616",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5301",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q232CC4620",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5302",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q232CC4617",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5303",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7780",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5304",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q232CC4621",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5305",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q232CC4634",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5309",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7768",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5310",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q232CC4618",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5313",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7777",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5314",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7747",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5318",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7765",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5319",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q232CC4615",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5259",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "HR 900",
+    "serie": "HRP002575105",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3455",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-123",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5254",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "HR 900",
+    "serie": "HRP002575051",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3460",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-126",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5255",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "HR 900",
+    "serie": "HRP002575181",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5260",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "HR 900",
+    "serie": "HRP002575090",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5263",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "HR 900",
+    "serie": "HRP002575054",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5266",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "HR 900",
+    "serie": "HRP002575019",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5265",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "HR 900",
+    "serie": "HRP002575047",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5267",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "HR 900",
+    "serie": "HRP002575020",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5253",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "HR 900",
+    "serie": "HRP002575046",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5324",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5325",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5326",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5328",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5331",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5332",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5333",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5271",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7775",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5273",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7773",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5274",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7783",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5275",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q232CC7762",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5277",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7781",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5282",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7749",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5283",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7744",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5287",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7763",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5311",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7776",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5312",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7757",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5315",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7786",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5316",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7746",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5317",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "CENTURIS P750",
+    "serie": "Q334CC7766",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5257",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "HR 900",
+    "serie": "HRP002575087",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5261",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "HR 900",
+    "serie": "HRP002575098",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5262",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "HR 900",
+    "serie": "HRP002575042",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5264",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "HR 900",
+    "serie": "HRP002575187",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5269",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "HR 900",
+    "serie": "HRP002575050",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5258",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "HILL-ROM",
+    "modelo": "HR 900",
+    "serie": "HRP002575093",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "C-2638",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "17397",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "628",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-058",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "895",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-090",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3873",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "3",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "905",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-001",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "917",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-025",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "4162",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "L&K",
+    "modelo": "ADULTO",
+    "serie": "ICSM-02969",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3654",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K",
+    "serie": "ADU-144",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3658",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K",
+    "serie": "ADU-146",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3464",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-133",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3468",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-134",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3471",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-140",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3472",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-142",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3476",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-139",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3477",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-067",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5323",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "5327",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2696",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-072",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2700",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-069",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2708",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-038",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2715",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-077",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2718",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-078",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2727",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-073",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2742",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-064",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "2750",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-037",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3833",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3520",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "C-2644",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "17395",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "629",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-053",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3456",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-128",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "C-2273 / 04160",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "L&K",
+    "modelo": "ADULTO",
+    "serie": "ICSM-02966",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "17418",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "17418",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "17409",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "17409",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "17414",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "17414 / C-2631",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "17404",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "17404 / C-2633",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "17405",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "17405 / C-2634",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "17400",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "17400 / C-2641",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "17401",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "17401",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "17402",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "17402",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "621",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-047",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "4416",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "LH – BEDLAB",
+    "modelo": "CHE-5M-TP-BP",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "3502",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "YONGFA MEDICAL",
+    "modelo": "YFD5618K (III)",
+    "serie": "ADU-111",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  },
+  {
+    "numero_inventario": "6987",
+    "nombre": "CAMA HOSPITALARIA PACIENTE ADULTO",
+    "marca": "MAFET",
+    "modelo": "M-057",
+    "serie": "NO REGISTRA",
+    "ubicacion": "Hospital Internacional de Colombia",
+    "formato_id": [1]
+  }
+]
