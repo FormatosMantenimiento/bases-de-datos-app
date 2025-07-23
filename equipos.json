@@ -1,0 +1,446 @@
+[
+    {
+        "numero_inventario":"8887",
+        "nombre":"BALANZA DIGITAL PESA BEBÉ",
+        "marca":"HEALTH O METER",
+        "modelo":"553 KL",
+        "serie":5530046387,
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            1
+        ]
+    },
+    {
+        "numero_inventario":"8283",
+        "nombre":"BALANZA DIGITAL PESA BEBÉ",
+        "marca":"SECA",
+        "modelo":"MOD 354",
+        "serie":8354049231048,
+        "UBICACION":"Hospitalización General Pediatrica- Piso 5",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            1
+        ]
+    },
+    {
+        "numero_inventario":"1272",
+        "nombre":"BALANZA DIGITAL PESA BEBÉ",
+        "marca":"SECA",
+        "modelo":"MOD 354",
+        "serie":8354182150796,
+        "UBICACION":"Hospitalización General Pediatrica- Piso 5",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            1
+        ]
+    },
+    {
+        "numero_inventario":"8176",
+        "nombre":"BALANZA DIGITAL PESA BEBÉ",
+        "marca":"HEALTH O METER",
+        "modelo":"522 KL",
+        "serie":5220008974,
+        "UBICACION":"Instituto de la mujer - Piso 6",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            1
+        ]
+    },
+    {
+        "numero_inventario":"C-2159 \/ 04006",
+        "nombre":"BALANZA DE PRECISIÓN",
+        "marca":"LEXUS",
+        "modelo":"FENIX",
+        "serie":"YS102975",
+        "UBICACION":"Central de Mezclas S2",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            2
+        ]
+    },
+    {
+        "numero_inventario":"3545",
+        "nombre":"BALANZA DE PRECISIÓN",
+        "marca":"BOECO",
+        "modelo":"BPS 40 PLUS",
+        "serie":"588239\/18",
+        "UBICACION":"Central de Mezclas S2",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            2
+        ]
+    },
+    {
+        "numero_inventario":"NR YS231774",
+        "nombre":"BALANZA DE PRECISIÓN",
+        "marca":"TRUMAX",
+        "modelo":"FENIX",
+        "serie":"YS231774",
+        "UBICACION":"Central de Mezclas S2",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            2
+        ]
+    },
+    {
+        "numero_inventario":"GRAM-013",
+        "nombre":"GRAMERA DIGITAL",
+        "marca":"HOPEX",
+        "modelo":"EK-5055",
+        "serie":"GRAM-013",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            2
+        ]
+    },
+    {
+        "numero_inventario":"GRAM-030",
+        "nombre":"GRAMERA DIGITAL",
+        "marca":"HOPEX",
+        "modelo":"EK-5055",
+        "serie":"GRAM-030",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            2
+        ]
+    },
+    {
+        "numero_inventario":"GRAM-032",
+        "nombre":"GRAMERA DIGITAL",
+        "marca":"HOPEX",
+        "modelo":"EK-5055",
+        "serie":"GRAM-032",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            2
+        ]
+    },
+    {
+        "numero_inventario":"GRAM-033",
+        "nombre":"GRAMERA DIGITAL",
+        "marca":"HOPEX",
+        "modelo":"EK-5055",
+        "serie":"GRAM-033",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            2
+        ]
+    },
+    {
+        "numero_inventario":"GRAM-034",
+        "nombre":"GRAMERA DIGITAL",
+        "marca":"HOPEX",
+        "modelo":"EK-5055",
+        "serie":"GRAM-034",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            2
+        ]
+    },
+    {
+        "numero_inventario":"GRAM-035",
+        "nombre":"GRAMERA DIGITAL",
+        "marca":"HOPEX",
+        "modelo":"EK-5055",
+        "serie":"GRAM-035",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            2
+        ]
+    },
+    {
+        "numero_inventario":"GRAM-036",
+        "nombre":"GRAMERA DIGITAL",
+        "marca":"HOPEX",
+        "modelo":"EK-5055",
+        "serie":"GRAM-036",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            2
+        ]
+    },
+    {
+        "numero_inventario":"GRAM-038",
+        "nombre":"GRAMERA DIGITAL",
+        "marca":"HOPEX",
+        "modelo":"EK-5055",
+        "serie":"GRAM-038",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            2
+        ]
+    },
+    {
+        "numero_inventario":"GRAM-0014",
+        "nombre":"GRAMERA DIGITAL",
+        "marca":"HOPEX",
+        "modelo":"EK-5055",
+        "serie":"GRAM-0014",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            2
+        ]
+    },
+    {
+        "numero_inventario":"GRAM-0012",
+        "nombre":"GRAMERA DIGITAL",
+        "marca":"HOPEX",
+        "modelo":"EK-5055",
+        "serie":"GRAM-0012",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            2
+        ]
+    },
+    {
+        "numero_inventario":"GRAM-037",
+        "nombre":"GRAMERA DIGITAL",
+        "marca":"HOPEX",
+        "modelo":"EK-5055",
+        "serie":"GRAM-037",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            2
+        ]
+    },
+    {
+        "numero_inventario":"GRAM-055",
+        "nombre":"GRAMERA DIGITAL",
+        "marca":"ELECTRONICS",
+        "modelo":"SF-400",
+        "serie":"GRAM-055",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            2
+        ]
+    },
+    {
+        "numero_inventario":"GRAM-0041",
+        "nombre":"GRAMERA DIGITAL",
+        "marca":"ELECTRONICS",
+        "modelo":"SF-400",
+        "serie":"GRAM-0041",
+        "UBICACION":"Hospitalización Adulto-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            2
+        ]
+    },
+    {
+        "numero_inventario":"GRAM-044",
+        "nombre":"GRAMERA DIGITAL",
+        "marca":"ELECTRONICS",
+        "modelo":"SF-400",
+        "serie":"GRAM-044",
+        "UBICACION":"Hospitalización Adulto-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            2
+        ]
+    },
+    {
+        "numero_inventario":"GRAM-0019",
+        "nombre":"GRAMERA DIGITAL",
+        "marca":"ICM",
+        "modelo":"ACS-B2",
+        "serie":"GRAM-0019",
+        "UBICACION":"Hospitalización General Adultos- Piso 5",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            2
+        ]
+    },
+    {
+        "numero_inventario":"GRAM-051",
+        "nombre":"GRAMERA",
+        "marca":"ELECTRONIC",
+        "modelo":"SF-400",
+        "serie":"GRAM-051",
+        "UBICACION":"Hospitalización General Pediatrica- Piso 5",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            2
+        ]
+    },
+    {
+        "numero_inventario":"GRAM-050",
+        "nombre":"GRAMERA",
+        "marca":"ELECTRONIC",
+        "modelo":"SF-400",
+        "serie":"GRAM-050",
+        "UBICACION":"Hospitalización VIP- Piso 6",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            2
+        ]
+    },
+    {
+        "numero_inventario":"GRAM-040",
+        "nombre":"GRAMERA MECÁNICA",
+        "marca":"HOPEX",
+        "modelo":"EK-5055",
+        "serie":"GRAM-040",
+        "UBICACION":"Hospitalización VIP- Piso 6",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            2
+        ]
+    },
+    {
+        "numero_inventario":"GRAM-039",
+        "nombre":"GRAMERA DIGITAL",
+        "marca":"HOPEX",
+        "modelo":"EK-5055",
+        "serie":"GRAM-039",
+        "UBICACION":"Instituto de la mujer - Piso 6",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            2
+        ]
+    },
+    {
+        "numero_inventario":"NR 8440073936",
+        "nombre":"BÁSCULA DIGITAL DE PISO",
+        "marca":"HEALTH O METER",
+        "modelo":"844KL",
+        "serie":8440073936,
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            3
+        ]
+    },
+    {
+        "numero_inventario":"NR8440143135",
+        "nombre":"BÁSCULA DIGITAL DE PISO",
+        "marca":"HEALTH O METER",
+        "modelo":"844KL",
+        "serie":8440143135,
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            3
+        ]
+    },
+    {
+        "numero_inventario":"NR84400142326",
+        "nombre":"BÁSCULA DIGITAL DE PISO",
+        "marca":"HEALTH O METER",
+        "modelo":"844KL",
+        "serie":84400142326,
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            3
+        ]
+    },
+    {
+        "numero_inventario":"NR8440142325",
+        "nombre":"BÁSCULA DIGITAL DE PISO",
+        "marca":"HEALTH O METER",
+        "modelo":"844KL",
+        "serie":8440142325,
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            3
+        ]
+    },
+    {
+        "numero_inventario":"NR8440142463",
+        "nombre":"BÁSCULA DIGITAL DE PISO",
+        "marca":"HEALTH O METER",
+        "modelo":"844KL",
+        "serie":8440142463,
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            3
+        ]
+    },
+    {
+        "numero_inventario":"NR 8440104125",
+        "nombre":"BÁSCULA DIGITAL DE PISO",
+        "marca":"HEALTH O METER",
+        "modelo":"844KL",
+        "serie":8440104125,
+        "UBICACION":"Hemodinamia-Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            3
+        ]
+    },
+    {
+        "numero_inventario":"NR 8440104126",
+        "nombre":"BÁSCULA DIGITAL DE PISO",
+        "marca":"HEALTH O METER",
+        "modelo":"844KL",
+        "serie":8440104126,
+        "UBICACION":"Hemodinamia-Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            3
+        ]
+    },
+    {
+        "numero_inventario":"NR 8440066573",
+        "nombre":"BÁSCULA DIGITAL DE PISO",
+        "marca":"HEALTH O METER",
+        "modelo":"844KL",
+        "serie":8440066573,
+        "UBICACION":"Hospitalización Adulto-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            3
+        ]
+    },
+    {
+        "numero_inventario":"NR 8440124269",
+        "nombre":"BÁSCULA DIGITAL DE PISO",
+        "marca":"HEALTH O METER",
+        "modelo":"844KL",
+        "serie":8440124269,
+        "UBICACION":"Hospitalización General Adultos- Piso 5",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            3
+        ]
+    },
+    {
+        "numero_inventario":"NR1420098807",
+        "nombre":"BÁSCULA MECÁNICA DE PISO",
+        "marca":"HEALTH O METER",
+        "modelo":"142KL",
+        "serie":1420098807,
+        "UBICACION":"Hospitalización General Pediatrica- Piso 5",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            3
+        ]
+    },
+    {
+        "numero_inventario":"NR 8440123364",
+        "nombre":"BÁSCULA DIGITAL DE PISO",
+        "marca":"HEALTH O METER",
+        "modelo":"844KL",
+        "serie":8440123364,
+        "UBICACION":"Hospitalización VIP- Piso 6",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            3
+        ]
+    }
+]
