@@ -372,6 +372,78 @@
         ]
     },
     {
+        "numero_inventario":"NR1626015",
+        "nombre":"BÁSCULA DIGITAL DE PISO",
+        "marca":"SECA",
+        "modelo":"874+",
+        "serie":"1626015",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            3
+        ]
+    },
+    {
+        "numero_inventario":"NR1623409",
+        "nombre":"BÁSCULA DIGITAL DE PISO",
+        "marca":"SECA",
+        "modelo":"874+",
+        "serie":"1623409",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            3
+        ]
+    },
+    {
+        "numero_inventario":"NR1623408",
+        "nombre":"BÁSCULA DIGITAL DE PISO",
+        "marca":"SECA",
+        "modelo":"874+",
+        "serie":"1623408",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            3
+        ]
+    },
+    {
+        "numero_inventario":"NR1626026",
+        "nombre":"BÁSCULA DIGITAL DE PISO",
+        "marca":"SECA",
+        "modelo":"874+",
+        "serie":"1626026",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            3
+        ]
+    },
+    {
+        "numero_inventario":"NR1626012",
+        "nombre":"BÁSCULA DIGITAL DE PISO",
+        "marca":"SECA",
+        "modelo":"874+",
+        "serie":"1626012",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            3
+        ]
+    },
+    {
+        "numero_inventario":"NR1626077",
+        "nombre":"BÁSCULA DIGITAL DE PISO",
+        "marca":"SECA",
+        "modelo":"874+",
+        "serie":"1626077",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            3
+        ]
+    },
+    {
         "numero_inventario":"NR8440104125",
         "nombre":"BÁSCULA DIGITAL DE PISO",
         "marca":"HEALTH O METER",
@@ -753,6 +825,1566 @@
         "ubicacion":"Hospital Internacional de Colombia",
         "formato_id":[
             4
+        ]
+    },
+    {
+        "numero_inventario":"NR2-434217",
+        "nombre":"AGITADOR VORTEX",
+        "marca":"VORTEX-GENE",
+        "modelo":"6560",
+        "serie":"2-434217",
+        "UBICACION":"Hemodinamia-Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            5
+        ]
+    },
+    {
+        "numero_inventario":"NR2-485071",
+        "nombre":"AGITADOR VORTEX",
+        "marca":"VORTEX-GENE",
+        "modelo":"6560",
+        "serie":"2-485071",
+        "UBICACION":"Hemodinamia-Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            5
+        ]
+    },
+    {
+        "numero_inventario":"M-0170",
+        "nombre":"CENTRAL DE MONITOREO",
+        "marca":"MINDRAY",
+        "modelo":"HYPERVISOR VI",
+        "serie":"V-5B111912",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            6
+        ]
+    },
+    {
+        "numero_inventario":"M-0171",
+        "nombre":"CENTRAL DE MONITOREO",
+        "marca":"MINDRAY",
+        "modelo":"HYPERVISOR VI",
+        "serie":"V-5B111911",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            6
+        ]
+    },
+    {
+        "numero_inventario":"8282",
+        "nombre":"DOPPLER FETAL",
+        "marca":"EDAN INSTRUMENTS",
+        "modelo":"SONOTRAX",
+        "serie":"560054-M23801700028",
+        "UBICACION":"Instituto de la mujer - Piso 6",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            7
+        ]
+    },
+    {
+        "numero_inventario":"C-0678",
+        "nombre":"ELECTROCARDIÓGRAFO",
+        "marca":"GENERAL ELECTRIC",
+        "modelo":"CARDIOSOFT V6.71",
+        "serie":"SK916057611PA",
+        "UBICACION":"Hemodinamia-Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            8
+        ]
+    },
+    {
+        "numero_inventario":"NRSK916148486PA",
+        "nombre":"ELECTROCARDIÓGRAFO",
+        "marca":"GENERAL ELECTRIC",
+        "modelo":"CARDIOSOFT V6.71",
+        "serie":"SK916148486PA",
+        "UBICACION":"Hospitalización Adulto-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            8
+        ]
+    },
+    {
+        "numero_inventario":"C-2473",
+        "nombre":"ELECTROCARDIÓGRAFO",
+        "marca":"GENERAL ELECTRIC",
+        "modelo":"MAC 2000",
+        "serie":"SMT16410099PA",
+        "UBICACION":"Hospitalización General Adultos- Piso 5",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            8
+        ]
+    },
+    {
+        "numero_inventario":"M-0681",
+        "nombre":"ELECTROCARDIÓGRAFO",
+        "marca":"GENERAL ELECTRIC",
+        "modelo":"CARDIOSOFT V6.71",
+        "serie":"SK916057550PA",
+        "UBICACION":"Hospitalización VIP- Piso 6",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            8
+        ]
+    },
+    {
+        "numero_inventario":"1280",
+        "nombre":"EQUIPO DE ÓRGANOS DE LOS SENTIDOS",
+        "marca":"WELCH ALLYN",
+        "modelo":"95001",
+        "serie":"NO REGISTRA",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            9
+        ]
+    },
+    {
+        "numero_inventario":"1345",
+        "nombre":"EQUIPO DE ÓRGANOS DE LOS SENTIDOS",
+        "marca":"WELCH ALLYN",
+        "modelo":"95001",
+        "serie":"NO REGISTRA",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            9
+        ]
+    },
+    {
+        "numero_inventario":"1346",
+        "nombre":"EQUIPO DE ÓRGANOS DE LOS SENTIDOS",
+        "marca":"WELCH ALLYN",
+        "modelo":"95001",
+        "serie":"NO REGISTRA",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            9
+        ]
+    },
+    {
+        "numero_inventario":"8871",
+        "nombre":"EQUIPO DE ÓRGANOS DE LOS SENTIDOS",
+        "marca":"RIESTER",
+        "modelo":"ri-former",
+        "serie":"126309",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            9
+        ]
+    },
+    {
+        "numero_inventario":"8872",
+        "nombre":"EQUIPO DE ÓRGANOS DE LOS SENTIDOS",
+        "marca":"RIESTER",
+        "modelo":"ri-former",
+        "serie":"126312",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            9
+        ]
+    },
+    {
+        "numero_inventario":"8873",
+        "nombre":"EQUIPO DE ÓRGANOS DE LOS SENTIDOS",
+        "marca":"RIESTER",
+        "modelo":"ri-former",
+        "serie":"126298",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            9
+        ]
+    },
+    {
+        "numero_inventario":"8874",
+        "nombre":"EQUIPO DE ÓRGANOS DE LOS SENTIDOS",
+        "marca":"RIESTER",
+        "modelo":"ri-former",
+        "serie":"126324",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            9
+        ]
+    },
+    {
+        "numero_inventario":"8875",
+        "nombre":"EQUIPO DE ÓRGANOS DE LOS SENTIDOS",
+        "marca":"RIESTER",
+        "modelo":"ri-former",
+        "serie":"126311",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            9
+        ]
+    },
+    {
+        "numero_inventario":"8876",
+        "nombre":"EQUIPO DE ÓRGANOS DE LOS SENTIDOS",
+        "marca":"RIESTER",
+        "modelo":"ri-former",
+        "serie":"126300",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            9
+        ]
+    },
+    {
+        "numero_inventario":"8878",
+        "nombre":"EQUIPO DE ÓRGANOS DE LOS SENTIDOS",
+        "marca":"RIESTER",
+        "modelo":"ri-former",
+        "serie":"126301",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            9
+        ]
+    },
+    {
+        "numero_inventario":"8879",
+        "nombre":"EQUIPO DE ÓRGANOS DE LOS SENTIDOS",
+        "marca":"RIESTER",
+        "modelo":"ri-former",
+        "serie":"126293",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            9
+        ]
+    },
+    {
+        "numero_inventario":"8880",
+        "nombre":"EQUIPO DE ÓRGANOS DE LOS SENTIDOS",
+        "marca":"RIESTER",
+        "modelo":"ri-former",
+        "serie":"124370",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            9
+        ]
+    },
+    {
+        "numero_inventario":"8882",
+        "nombre":"EQUIPO DE ÓRGANOS DE LOS SENTIDOS",
+        "marca":"RIESTER",
+        "modelo":"ri-former",
+        "serie":"126290",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            9
+        ]
+    },
+    {
+        "numero_inventario":"8883",
+        "nombre":"EQUIPO DE ÓRGANOS DE LOS SENTIDOS",
+        "marca":"RIESTER",
+        "modelo":"ri-former",
+        "serie":"126310",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            9
+        ]
+    },
+    {
+        "numero_inventario":"8884",
+        "nombre":"EQUIPO DE ÓRGANOS DE LOS SENTIDOS",
+        "marca":"RIESTER",
+        "modelo":"ri-former",
+        "serie":"126289",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            9
+        ]
+    },
+    {
+        "numero_inventario":"8885",
+        "nombre":"EQUIPO DE ÓRGANOS DE LOS SENTIDOS",
+        "marca":"RIESTER",
+        "modelo":"ri-former",
+        "serie":"124400",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            9
+        ]
+    },
+    {
+        "numero_inventario":"8886",
+        "nombre":"EQUIPO DE ÓRGANOS DE LOS SENTIDOS",
+        "marca":"RIESTER",
+        "modelo":"ri-former",
+        "serie":"126303",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            9
+        ]
+    },
+    {
+        "numero_inventario":"8888",
+        "nombre":"EQUIPO DE ÓRGANOS DE LOS SENTIDOS",
+        "marca":"RIESTER",
+        "modelo":"e-scope",
+        "serie":"NR 08888",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            9
+        ]
+    },
+    {
+        "numero_inventario":"1342",
+        "nombre":"EQUIPO DE ÓRGANOS DE LOS SENTIDOS",
+        "marca":"WELCH ALLYN",
+        "modelo":"95001",
+        "serie":"NO REGISTRA",
+        "UBICACION":"Hospitalización Adulto-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            9
+        ]
+    },
+    {
+        "numero_inventario":"NR290068",
+        "nombre":"EQUIPO DE ÓRGANOS DE LOS SENTIDOS",
+        "marca":"STRONG MEDICAL",
+        "modelo":"nan",
+        "serie":"290068",
+        "UBICACION":"Hospitalización Adulto-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            9
+        ]
+    },
+    {
+        "numero_inventario":"NREO-HOSPADU-01",
+        "nombre":"EQUIPO DE ÓRGANOS DE LOS SENTIDOS",
+        "marca":"WELCH ALLYN",
+        "modelo":"95001",
+        "serie":"EO-HOSPADU-01",
+        "UBICACION":"Hospitalización General Adultos- Piso 5",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            9
+        ]
+    },
+    {
+        "numero_inventario":"1341",
+        "nombre":"EQUIPO DE ÓRGANOS DE LOS SENTIDOS",
+        "marca":"WELCH ALLYN",
+        "modelo":"95001",
+        "serie":"POCKET REF 95001",
+        "UBICACION":"Hospitalización General Pediatrica- Piso 5",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            9
+        ]
+    },
+    {
+        "numero_inventario":"6218",
+        "nombre":"EQUIPO DE ÓRGANOS DE LOS SENTIDOS",
+        "marca":"WELCH ALLYN",
+        "modelo":"901026",
+        "serie":"NO REGISTRA",
+        "UBICACION":"Hospitalización VIP- Piso 6",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            9
+        ]
+    },
+    {
+        "numero_inventario":"6219",
+        "nombre":"EQUIPO DE ÓRGANOS DE LOS SENTIDOS",
+        "marca":"WELCH ALLYN",
+        "modelo":"901026",
+        "serie":"NO REGISTRA",
+        "UBICACION":"Hospitalización VIP- Piso 6",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            9
+        ]
+    },
+    {
+        "numero_inventario":"04034\/C-2260",
+        "nombre":"ESCANER CON ILUMINADOR",
+        "marca":"RUINUO",
+        "modelo":"JCD-II",
+        "serie":"15864",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            10
+        ]
+    },
+    {
+        "numero_inventario":"04065\/C-2261",
+        "nombre":"FRONTO LUZ",
+        "marca":"ZUMAX MEDICAL",
+        "modelo":"HL8000",
+        "serie":"10709",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            11
+        ]
+    },
+    {
+        "numero_inventario":"C-2262\/14904",
+        "nombre":"FRONTO LUZ",
+        "marca":"ZUMAX MEDICAL",
+        "modelo":"HL 8300",
+        "serie":"1376077",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            11
+        ]
+    },
+    {
+        "numero_inventario":"3710",
+        "nombre":"FRONTO LUZ",
+        "marca":"ZUMAX MEDICAL",
+        "modelo":"HL 8300",
+        "serie":"15C1016",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            11
+        ]
+    },
+    {
+        "numero_inventario":"8280",
+        "nombre":"LÁMPARA DE CALOR RADIANTE",
+        "marca":"NINGBO DAVID",
+        "modelo":"9010",
+        "serie":"A22BC0054003",
+        "UBICACION":"Instituto de la mujer - Piso 6",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            12
+        ]
+    },
+    {
+        "numero_inventario":"8279",
+        "nombre":"LÁMPARA DE FOTOTERAPIA",
+        "marca":"COMEN",
+        "modelo":"BL70",
+        "serie":"7B230403007",
+        "UBICACION":"UCI Pediátrica- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            13
+        ]
+    },
+    {
+        "numero_inventario":"8278",
+        "nombre":"LÁMPARA PIELÍTICA",
+        "marca":"WELCH ALLYN",
+        "modelo":"GS 600",
+        "serie":"NR08278",
+        "UBICACION":"Instituto de la mujer - Piso 6",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            14
+        ]
+    },
+    {
+        "numero_inventario":"LAG-025",
+        "nombre":"LARINGOSCOPIO ADULTO",
+        "marca":"WELCH ALLYN",
+        "modelo":"60813",
+        "serie":"LAG-025",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            15
+        ]
+    },
+    {
+        "numero_inventario":"LAG-CX-01",
+        "nombre":"LARINGOSCOPIO ADULTO",
+        "marca":"WELCH ALLYN",
+        "modelo":"60813",
+        "serie":"LAG-CX-01",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            15
+        ]
+    },
+    {
+        "numero_inventario":"LAG-018",
+        "nombre":"LARINGOSCOPIO ADULTO",
+        "marca":"WELCH ALLYN",
+        "modelo":"60813",
+        "serie":"LAG-018",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            15
+        ]
+    },
+    {
+        "numero_inventario":"LAG-026",
+        "nombre":"LARINGOSCOPIO ADULTO",
+        "marca":"WELCH ALLYN",
+        "modelo":"60813",
+        "serie":"LAG-026",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            15
+        ]
+    },
+    {
+        "numero_inventario":"LAG-020",
+        "nombre":"LARINGOSCOPIO ADULTO",
+        "marca":"WELCH ALLYN",
+        "modelo":"60813",
+        "serie":"LAG-020",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            15
+        ]
+    },
+    {
+        "numero_inventario":"LAG-017",
+        "nombre":"LARINGOSCOPIO ADULTO",
+        "marca":"WELCH ALLYN",
+        "modelo":"60813",
+        "serie":"LAG-017",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            15
+        ]
+    },
+    {
+        "numero_inventario":"LAG-024",
+        "nombre":"LARINGOSCOPIO ADULTO",
+        "marca":"WELCH ALLYN",
+        "modelo":"60813",
+        "serie":"LAG-024",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            15
+        ]
+    },
+    {
+        "numero_inventario":"LAG-029",
+        "nombre":"LARINGOSCOPIO ADULTO",
+        "marca":"WELCH ALLYN",
+        "modelo":"60813",
+        "serie":"LAG-029",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            15
+        ]
+    },
+    {
+        "numero_inventario":"LAG-022",
+        "nombre":"LARINGOSCOPIO ADULTO",
+        "marca":"WELCH ALLYN",
+        "modelo":"60813",
+        "serie":"LAG-022",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            15
+        ]
+    },
+    {
+        "numero_inventario":"LAG-003",
+        "nombre":"LARINGOSCOPIO ADULTO",
+        "marca":"WELCH ALLYN",
+        "modelo":"60813",
+        "serie":"LAG-003",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            15
+        ]
+    },
+    {
+        "numero_inventario":"LAG-004",
+        "nombre":"LARINGOSCOPIO ADULTO",
+        "marca":"WELCH ALLYN",
+        "modelo":"60813",
+        "serie":"LAG-004",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            15
+        ]
+    },
+    {
+        "numero_inventario":"LAG-005",
+        "nombre":"LARINGOSCOPIO ADULTO",
+        "marca":"WELCH ALLYN",
+        "modelo":"60813",
+        "serie":"LAG-005",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            15
+        ]
+    },
+    {
+        "numero_inventario":"LAG-006",
+        "nombre":"LARINGOSCOPIO ADULTO",
+        "marca":"WELCH ALLYN",
+        "modelo":"60813",
+        "serie":"LAG-006",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            15
+        ]
+    },
+    {
+        "numero_inventario":"LAG-007",
+        "nombre":"LARINGOSCOPIO ADULTO",
+        "marca":"WELCH ALLYN",
+        "modelo":"60813",
+        "serie":"LAG-007",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            15
+        ]
+    },
+    {
+        "numero_inventario":"LAG-008",
+        "nombre":"LARINGOSCOPIO ADULTO",
+        "marca":"WELCH ALLYN",
+        "modelo":"60813",
+        "serie":"LAG-008",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            15
+        ]
+    },
+    {
+        "numero_inventario":"LAG-009",
+        "nombre":"LARINGOSCOPIO ADULTO",
+        "marca":"WELCH ALLYN",
+        "modelo":"60813",
+        "serie":"LAG-009",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            15
+        ]
+    },
+    {
+        "numero_inventario":"LAG-012",
+        "nombre":"LARINGOSCOPIO ADULTO",
+        "marca":"WELCH ALLYN",
+        "modelo":"60813",
+        "serie":"LAG-012",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            15
+        ]
+    },
+    {
+        "numero_inventario":"LAG-010",
+        "nombre":"LARINGOSCOPIO ADULTO",
+        "marca":"WELCH ALLYN",
+        "modelo":"60813",
+        "serie":"LAG-010",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            15
+        ]
+    },
+    {
+        "numero_inventario":"LAG-019",
+        "nombre":"LARINGOSCOPIO ADULTO",
+        "marca":"WELCH ALLYN",
+        "modelo":"60813",
+        "serie":"LAG-019",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            15
+        ]
+    },
+    {
+        "numero_inventario":"LAG-016",
+        "nombre":"LARINGOSCOPIO ADULTO",
+        "marca":"WELCH ALLYN",
+        "modelo":"60813",
+        "serie":"LAG-016",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            15
+        ]
+    },
+    {
+        "numero_inventario":"LAG-0014",
+        "nombre":"LARINGOSCOPIO ADULTO",
+        "marca":"WELCH ALLYN",
+        "modelo":"60813",
+        "serie":"LAG-0014",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            15
+        ]
+    },
+    {
+        "numero_inventario":"LAG-217",
+        "nombre":"LARINGOSCOPIO ADULTO",
+        "marca":"WELCH ALLYN",
+        "modelo":"60813",
+        "serie":"LAG-217",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            15
+        ]
+    },
+    {
+        "numero_inventario":"LAG-021",
+        "nombre":"LARINGOSCOPIO ADULTO",
+        "marca":"WELCH ALLYN",
+        "modelo":"60813",
+        "serie":"LAG-021",
+        "UBICACION":"Hemodinamia-Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            15
+        ]
+    },
+    {
+        "numero_inventario":"LAR-ADU-009",
+        "nombre":"LARINGOSCOPIO ADULTO",
+        "marca":"WELCH ALLYN",
+        "modelo":"60813",
+        "serie":"LAR-ADU-009",
+        "UBICACION":"Hospitalización Adulto-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            15
+        ]
+    },
+    {
+        "numero_inventario":"LAG-0341",
+        "nombre":"LARINGOSCOPIO ADULTO",
+        "marca":"WELCH ALLYN",
+        "modelo":"60813",
+        "serie":"LAG-0341",
+        "UBICACION":"Hospitalización Adulto-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            15
+        ]
+    },
+    {
+        "numero_inventario":"LAR-ADU-008",
+        "nombre":"LARINGOSCOPIO ADULTO",
+        "marca":"WELCH ALLYN",
+        "modelo":"60813",
+        "serie":"LAR-ADU-008",
+        "UBICACION":"Hospitalización General Adultos- Piso 5",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            15
+        ]
+    },
+    {
+        "numero_inventario":"LAR-PED-003",
+        "nombre":"LARINGOSCOPIO PEDIÁTRICO",
+        "marca":"WELCH ALLYN",
+        "modelo":"60814",
+        "serie":"LAR-PED-003",
+        "UBICACION":"Hospitalización General Pediatrica- Piso 5",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            15
+        ]
+    },
+    {
+        "numero_inventario":"LAG-014",
+        "nombre":"LARINGOSCOPIO ADULTO",
+        "marca":"WELCH ALLYN",
+        "modelo":"60813",
+        "serie":"LAG-014",
+        "UBICACION":"Hospitalización VIP- Piso 6",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            15
+        ]
+    },
+    {
+        "numero_inventario":"LAG-040",
+        "nombre":"LARINGOSCOPIO ADULTO",
+        "marca":"WELCH ALLYN",
+        "modelo":"60813",
+        "serie":"LAG-040",
+        "UBICACION":"Hospitalización VIP- Piso 6",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            15
+        ]
+    },
+    {
+        "numero_inventario":"LAG-015",
+        "nombre":"LARINGOSCOPIO ADULTO",
+        "marca":"WELCH ALLYN",
+        "modelo":"60813",
+        "serie":"LAG-015",
+        "UBICACION":"Hospitalización VIP- Piso 6",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            15
+        ]
+    },
+    {
+        "numero_inventario":"7253",
+        "nombre":"MANTA TÉRMICA",
+        "marca":"COVIDIEN",
+        "modelo":"WARM TOUCH - WT6000",
+        "serie":"SP22070026",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            16
+        ]
+    },
+    {
+        "numero_inventario":"7249",
+        "nombre":"MANTA TÉRMICA",
+        "marca":"COVIDIEN",
+        "modelo":"WARM TOUCH - WT6000",
+        "serie":"SP22070022",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            16
+        ]
+    },
+    {
+        "numero_inventario":"3066",
+        "nombre":"MANTA TÉRMICA",
+        "marca":"COVIDIEN",
+        "modelo":"WARM TOUCH - WT6000",
+        "serie":"SP16090292",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            16
+        ]
+    },
+    {
+        "numero_inventario":"3068",
+        "nombre":"MANTA TÉRMICA",
+        "marca":"COVIDIEN",
+        "modelo":"WARM TOUCH - WT6000",
+        "serie":"SP16090295",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            16
+        ]
+    },
+    {
+        "numero_inventario":"M-0729",
+        "nombre":"MANTA TÉRMICA",
+        "marca":"COVIDIEN",
+        "modelo":"WARM TOUCH - WT6000",
+        "serie":"SP14030230",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            16
+        ]
+    },
+    {
+        "numero_inventario":"7255",
+        "nombre":"MANTA TÉRMICA",
+        "marca":"COVIDIEN",
+        "modelo":"WARM TOUCH - WT6000",
+        "serie":"SP22070030",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            16
+        ]
+    },
+    {
+        "numero_inventario":"7246",
+        "nombre":"MANTA TÉRMICA",
+        "marca":"COVIDIEN",
+        "modelo":"WARM TOUCH - WT6000",
+        "serie":"SP22070019",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            16
+        ]
+    },
+    {
+        "numero_inventario":"7247",
+        "nombre":"MANTA TÉRMICA",
+        "marca":"COVIDIEN",
+        "modelo":"WARM TOUCH - WT6000",
+        "serie":"SP22070020",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            16
+        ]
+    },
+    {
+        "numero_inventario":"7248",
+        "nombre":"MANTA TÉRMICA",
+        "marca":"COVIDIEN",
+        "modelo":"WARM TOUCH - WT6000",
+        "serie":"SP22070021",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            16
+        ]
+    },
+    {
+        "numero_inventario":"7250",
+        "nombre":"MANTA TÉRMICA",
+        "marca":"COVIDIEN",
+        "modelo":"WARM TOUCH - WT6000",
+        "serie":"SP22070023",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            16
+        ]
+    },
+    {
+        "numero_inventario":"7251",
+        "nombre":"MANTA TÉRMICA",
+        "marca":"COVIDIEN",
+        "modelo":"WARM TOUCH - WT6000",
+        "serie":"SP22070024",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            16
+        ]
+    },
+    {
+        "numero_inventario":"7252",
+        "nombre":"MANTA TÉRMICA",
+        "marca":"COVIDIEN",
+        "modelo":"WARM TOUCH - WT6000",
+        "serie":"SP22070025",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            16
+        ]
+    },
+    {
+        "numero_inventario":"7254",
+        "nombre":"MANTA TÉRMICA",
+        "marca":"COVIDIEN",
+        "modelo":"WARM TOUCH - WT6000",
+        "serie":"SP22070029",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            16
+        ]
+    },
+    {
+        "numero_inventario":"M-0640",
+        "nombre":"MANTA TÉRMICA",
+        "marca":"COVIDIEN",
+        "modelo":"WARM TOUCH - WT6000",
+        "serie":"SP13060113",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            16
+        ]
+    },
+    {
+        "numero_inventario":"M-0726",
+        "nombre":"MANTA TÉRMICA",
+        "marca":"COVIDIEN",
+        "modelo":"WARM TOUCH - WT6000",
+        "serie":"SP14030219",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            16
+        ]
+    },
+    {
+        "numero_inventario":"M-0727",
+        "nombre":"MANTA TÉRMICA",
+        "marca":"COVIDIEN",
+        "modelo":"WARM TOUCH - WT6000",
+        "serie":"SP14030223",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            16
+        ]
+    },
+    {
+        "numero_inventario":"M-0728",
+        "nombre":"MANTA TÉRMICA",
+        "marca":"COVIDIEN",
+        "modelo":"WARM TOUCH - WT6000",
+        "serie":"SP14030224",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            16
+        ]
+    },
+    {
+        "numero_inventario":"3067",
+        "nombre":"MANTA TÉRMICA",
+        "marca":"COVIDIEN",
+        "modelo":"WARM TOUCH - WT6000",
+        "serie":"SP16090293",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            16
+        ]
+    },
+    {
+        "numero_inventario":"M-0639",
+        "nombre":"MANTA TÉRMICA",
+        "marca":"COVIDIEN",
+        "modelo":"WARM TOUCH - WT6000",
+        "serie":"SP14030259",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            16
+        ]
+    },
+    {
+        "numero_inventario":"6563",
+        "nombre":"MANTA TÉRMICA",
+        "marca":"COVIDIEN",
+        "modelo":"WARM TOUCH - WT6000",
+        "serie":"SP21100053",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            16
+        ]
+    },
+    {
+        "numero_inventario":"5939",
+        "nombre":"MANTA TÉRMICA",
+        "marca":"COVIDIEN",
+        "modelo":"WARM TOUCH - WT6000",
+        "serie":"SP21100271",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            16
+        ]
+    },
+    {
+        "numero_inventario":"5938",
+        "nombre":"MANTA TÉRMICA",
+        "marca":"COVIDIEN",
+        "modelo":"WARM TOUCH - WT6000",
+        "serie":"SP21100270",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            16
+        ]
+    },
+    {
+        "numero_inventario":"6542",
+        "nombre":"MANTA TÉRMICA",
+        "marca":"COVIDIEN",
+        "modelo":"WARM TOUCH - WT6000",
+        "serie":"SP21120398",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            16
+        ]
+    },
+    {
+        "numero_inventario":"7403",
+        "nombre":"MANTA TÉRMICA",
+        "marca":"COVIDIEN",
+        "modelo":"WARM TOUCH - WT6000",
+        "serie":"SP22080072",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            16
+        ]
+    },
+    {
+        "numero_inventario":"7405",
+        "nombre":"MANTA TÉRMICA",
+        "marca":"COVIDIEN",
+        "modelo":"WARM TOUCH - WT6000",
+        "serie":"SP22080074",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            16
+        ]
+    },
+    {
+        "numero_inventario":"7406",
+        "nombre":"MANTA TÉRMICA",
+        "marca":"COVIDIEN",
+        "modelo":"WARM TOUCH - WT6000",
+        "serie":"SP22080075",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            16
+        ]
+    },
+    {
+        "numero_inventario":"7408",
+        "nombre":"MANTA TÉRMICA",
+        "marca":"COVIDIEN",
+        "modelo":"WARM TOUCH - WT6000",
+        "serie":"SP22080077",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            16
+        ]
+    },
+    {
+        "numero_inventario":"7409",
+        "nombre":"MANTA TÉRMICA",
+        "marca":"COVIDIEN",
+        "modelo":"WARM TOUCH - WT6000",
+        "serie":"SP22080078",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            16
+        ]
+    },
+    {
+        "numero_inventario":"7837",
+        "nombre":"MANTA TÉRMICA",
+        "marca":"COVIDIEN",
+        "modelo":"WARM TOUCH - WT6000",
+        "serie":"SP22080043",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            16
+        ]
+    },
+    {
+        "numero_inventario":"3064",
+        "nombre":"MANTA TÉRMICA",
+        "marca":"COVIDIEN",
+        "modelo":"WARM TOUCH - WT6000",
+        "serie":"SP16090289",
+        "UBICACION":"Hemodinamia-Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            16
+        ]
+    },
+    {
+        "numero_inventario":"7401",
+        "nombre":"MANTA TÉRMICA",
+        "marca":"COVIDIEN",
+        "modelo":"WARM TOUCH - WT6000",
+        "serie":"SP22080070",
+        "UBICACION":"Hospitalización VIP- Piso 6",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            16
+        ]
+    },
+    {
+        "numero_inventario":"7402",
+        "nombre":"MANTA TÉRMICA",
+        "marca":"COVIDIEN",
+        "modelo":"WARM TOUCH - WT6000",
+        "serie":"SP22080071",
+        "UBICACION":"Hospitalización VIP- Piso 6",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            16
+        ]
+    },
+    {
+        "numero_inventario":"8281",
+        "nombre":"MONITOR FETAL",
+        "marca":"EDAN",
+        "modelo":"F3",
+        "serie":"560034-M23909510020",
+        "UBICACION":"Instituto de la mujer - Piso 6",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            17
+        ]
+    },
+    {
+        "numero_inventario":"C-0705",
+        "nombre":"MONITOR FETAL",
+        "marca":"GENERAL ELECTRIC",
+        "modelo":"COROMETRICS 172",
+        "serie":"SAS16115541PAS",
+        "UBICACION":"Instituto de la mujer - Piso 6",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            17
+        ]
+    },
+    {
+        "numero_inventario":"14051",
+        "nombre":"SIERRA PARA CORTAR YESO",
+        "marca":"NO REGISTRA",
+        "modelo":"NO REGISTRA",
+        "serie":"NO REGISTRA",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            18
+        ]
+    },
+    {
+        "numero_inventario":"2617",
+        "nombre":"SIERRA PARA CORTAR YESO",
+        "marca":"HEBU",
+        "modelo":"ORO PLUS",
+        "serie":"72768898360",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            18
+        ]
+    },
+    {
+        "numero_inventario":"C-1752",
+        "nombre":"SIERRA PARA CORTAR YESO",
+        "marca":"DIMEDA",
+        "modelo":"3020010",
+        "serie":"18552",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            18
+        ]
+    },
+    {
+        "numero_inventario":"8644",
+        "nombre":"TALADRO DE SIERRA ELECTRICO (COSOLA MIDAS)",
+        "marca":"BOJIN",
+        "modelo":"BJ36006",
+        "serie":"V-2402009",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            19
+        ]
+    },
+    {
+        "numero_inventario":"1675",
+        "nombre":"TENSIÓMETRO DE PARED",
+        "marca":"WELCH ALLYN",
+        "modelo":"7670-01",
+        "serie":"150820132115",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            20
+        ]
+    },
+    {
+        "numero_inventario":"1676",
+        "nombre":"TENSIÓMETRO DE PARED",
+        "marca":"WELCH ALLYN",
+        "modelo":"7670-01",
+        "serie":"150820131675",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            20
+        ]
+    },
+    {
+        "numero_inventario":"1682",
+        "nombre":"TENSIÓMETRO DE PARED",
+        "marca":"WELCH ALLYN",
+        "modelo":"7670-01",
+        "serie":"150820133435",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            20
+        ]
+    },
+    {
+        "numero_inventario":"1683",
+        "nombre":"TENSIÓMETRO DE PARED",
+        "marca":"WELCH ALLYN",
+        "modelo":"7670-01",
+        "serie":"150820133655",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            20
+        ]
+    },
+    {
+        "numero_inventario":"1687",
+        "nombre":"TENSIÓMETRO DE PARED",
+        "marca":"WELCH ALLYN",
+        "modelo":"7670-01",
+        "serie":"150820133545",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            20
+        ]
+    },
+    {
+        "numero_inventario":"411",
+        "nombre":"TENSIÓMETRO DE PARED",
+        "marca":"WELCH ALLYN",
+        "modelo":"7670-01",
+        "serie":"150820131785",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            20
+        ]
+    },
+    {
+        "numero_inventario":"7838",
+        "nombre":"TENSIÓMETRO DE PARED",
+        "marca":"WELCH ALLYN",
+        "modelo":"7670-01",
+        "serie":"220671700840",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            20
+        ]
+    },
+    {
+        "numero_inventario":"7842",
+        "nombre":"TENSIÓMETRO DE PARED",
+        "marca":"WELCH ALLYN",
+        "modelo":"7670-01",
+        "serie":"220607131510",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            20
+        ]
+    },
+    {
+        "numero_inventario":"7844",
+        "nombre":"TENSIÓMETRO DE PARED",
+        "marca":"WELCH ALLYN",
+        "modelo":"7670-01",
+        "serie":"220607165400",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            20
+        ]
+    },
+    {
+        "numero_inventario":"7847",
+        "nombre":"TENSIÓMETRO DE PARED",
+        "marca":"WELCH ALLYN",
+        "modelo":"7670-01",
+        "serie":"220607142240",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            20
+        ]
+    },
+    {
+        "numero_inventario":"7845",
+        "nombre":"TENSIÓMETRO DE PARED",
+        "marca":"WELCH ALLYN",
+        "modelo":"7670-01",
+        "serie":"220607132610",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            20
+        ]
+    },
+    {
+        "numero_inventario":"7846",
+        "nombre":"TENSIÓMETRO DE PARED",
+        "marca":"WELCH ALLYN",
+        "modelo":"7670-01",
+        "serie":"220607131020",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            20
+        ]
+    },
+    {
+        "numero_inventario":"7850",
+        "nombre":"TENSIÓMETRO DE PARED",
+        "marca":"WELCH ALLYN",
+        "modelo":"7670-01",
+        "serie":"220607170410",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            20
+        ]
+    },
+    {
+        "numero_inventario":"7841",
+        "nombre":"TENSIÓMETRO DE PARED",
+        "marca":"WELCH ALLYN",
+        "modelo":"7670-01",
+        "serie":"220607151700",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            20
+        ]
+    },
+    {
+        "numero_inventario":"7840",
+        "nombre":"TENSIÓMETRO DE PARED",
+        "marca":"WELCH ALLYN",
+        "modelo":"7670-01",
+        "serie":"220607134620",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            20
+        ]
+    },
+    {
+        "numero_inventario":"412",
+        "nombre":"TENSIÓMETRO DE PARED",
+        "marca":"WELCH ALLYN",
+        "modelo":"7670-01",
+        "serie":"150928200295",
+        "UBICACION":"Consulta Externa VIP-Piso 4",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            20
+        ]
+    },
+    {
+        "numero_inventario":"NR675199",
+        "nombre":"TENSIÓMETRO MANUAL ANEROIDE",
+        "marca":"ALPK2",
+        "modelo":"500-V",
+        "serie":"675199",
+        "UBICACION":"Hospitalización General Adultos- Piso 5",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            20
+        ]
+    },
+    {
+        "numero_inventario":"NR013550",
+        "nombre":"TENSIÓMETRO MANUAL ANEROIDE",
+        "marca":"ALPK2",
+        "modelo":"500-V",
+        "serie":"13550",
+        "UBICACION":"Hospitalización General Pediatrica- Piso 5",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            20
+        ]
+    },
+    {
+        "numero_inventario":"NR013543",
+        "nombre":"TENSIÓMETRO MANUAL ANEROIDE",
+        "marca":"ALPK2",
+        "modelo":"500-V",
+        "serie":"13543",
+        "UBICACION":"Hospitalización General Pediatrica- Piso 5",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            20
+        ]
+    },
+    {
+        "numero_inventario":"7638",
+        "nombre":"URETERO FIBROSCO",
+        "marca":"KARL STORZ",
+        "modelo":"FLEX-X2S",
+        "serie":"2271612",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            21
+        ]
+    },
+    {
+        "numero_inventario":"M-0645",
+        "nombre":"VIDEOLARINGOSCOPIO",
+        "marca":"McGRATH",
+        "modelo":"MAC",
+        "serie":"311669",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            22
+        ]
+    },
+    {
+        "numero_inventario":"3948",
+        "nombre":"VIDEOLARINGOSCOPIO",
+        "marca":"McGRATH",
+        "modelo":"MAC 1",
+        "serie":"354461",
+        "UBICACION":"Cirugía general- Piso 3",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            22
         ]
     }
 ]
