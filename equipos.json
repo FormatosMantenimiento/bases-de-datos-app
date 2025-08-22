@@ -1,5 +1,77 @@
 [
     {
+        "numero_inventario":"0001",
+        "nombre":"HUMIDIFICADOR",
+        "marca":"KENDALL - COVIDIEN",
+        "modelo":"SCD 700",
+        "SERVICIO":"UCI Adultos 1-Piso 3",
+        "serie":"V2010516SX",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            28
+        ]
+    },
+     {
+        "numero_inventario":"0002",
+        "nombre":"CAMA HOSPITALARIA",
+        "marca":"KENDALL - COVIDIEN",
+        "modelo":"SCD 700",
+        "SERVICIO":"UCI Adultos 1-Piso 3",
+        "serie":"V2010516SX",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            29
+        ]
+    },
+     {
+        "numero_inventario":"0003",
+        "nombre":"CUNA",
+        "marca":"KENDALL - COVIDIEN",
+        "modelo":"SCD 700",
+        "SERVICIO":"UCI Adultos 1-Piso 3",
+        "serie":"V2010516SX",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            30
+        ]
+    },
+    {
+        "numero_inventario":"0004",
+        "nombre":"CAMILLA",
+        "marca":"KENDALL - COVIDIEN",
+        "modelo":"SCD 700",
+        "SERVICIO":"UCI Adultos 1-Piso 3",
+        "serie":"V2010516SX",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            31
+        ]
+    },
+    {
+        "numero_inventario":"0005",
+        "nombre":"TENSIOMETRO",
+        "marca":"KENDALL - COVIDIEN",
+        "modelo":"SCD 700",
+        "SERVICIO":"UCI Adultos 1-Piso 3",
+        "serie":"V2010516SX",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            32
+        ]
+    },
+    {
+        "numero_inventario":"0006",
+        "nombre":"PULSOXIMETRO",
+        "marca":"KENDALL - COVIDIEN",
+        "modelo":"SCD 700",
+        "SERVICIO":"UCI Adultos 1-Piso 3",
+        "serie":"V2010516SX",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            33
+        ]
+    },
+    {
         "numero_inventario":"8887",
         "nombre":"BALANZA DIGITAL PESA BEBÉ",
         "marca":"HEALTH O METER",
