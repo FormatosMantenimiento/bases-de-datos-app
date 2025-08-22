@@ -72,6 +72,18 @@
             34
         ]
     },
+     {
+        "numero_inventario":"0007",
+        "nombre":"MESA DE CIRUGIA",
+        "marca":"KENDALL - COVIDIEN",
+        "modelo":"SCD 700",
+        "SERVICIO":"UCI Adultos 1-Piso 3",
+        "serie":"V2010516SX",
+        "ubicacion":"Hospital Internacional de Colombia",
+        "formato_id":[
+            35
+        ]
+    },
     {
         "numero_inventario":"8887",
         "nombre":"BALANZA DIGITAL PESA BEBÉ",
